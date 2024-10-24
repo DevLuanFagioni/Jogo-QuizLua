@@ -1,9 +1,5 @@
 # QuizLua 📝
 
-## 🌐 APK
-
-https://www.mediafire.com/file/0j4vbgnbsc80z0g/QuizLua.apk/file
-
 ## 🛠️ Construído com
 
 * Lua
